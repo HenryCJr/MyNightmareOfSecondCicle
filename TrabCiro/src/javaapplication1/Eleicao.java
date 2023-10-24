@@ -8,10 +8,7 @@ import java.util.*;
 /**
  * @Authors:
  * Fábio Henrique Cimino Júnior;
- * Lucas Marquez Vianna;
- * Beatriz Maria Arakaki;
- * João Gimenes Moura;
- * Richard Miranda Guida;
+ * 
  * 
  * 
  * @param args the command line arguments
